@@ -10,7 +10,7 @@ This is a simple RESTful API backend for the Task Manager, in which client can p
 - MySql
 
 ## Features
-- The project and task controllers can do all the logic, it can also give a list of entities ordered by status (NotStarted,
+- The project and task controllers can provide crud logic, and can also give a list of entities ordered by status (NotStarted,
     Active,
     Completed), by date
 
